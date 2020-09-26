@@ -1,0 +1,13 @@
+C:\Users\sonin\Desktop\C#\Practica_3\obj\Debug\netcoreapp3.1\Practica_3.csprojAssemblyReference.cache
+C:\Users\sonin\Desktop\C#\Practica_3\obj\Debug\netcoreapp3.1\Practica_3.AssemblyInfoInputs.cache
+C:\Users\sonin\Desktop\C#\Practica_3\obj\Debug\netcoreapp3.1\Practica_3.AssemblyInfo.cs
+C:\Users\sonin\Desktop\C#\Practica_3\obj\Debug\netcoreapp3.1\Practica_3.csproj.CoreCompileInputs.cache
+C:\Users\sonin\Desktop\C#\Practica_3\bin\Debug\netcoreapp3.1\Practica_3.exe
+C:\Users\sonin\Desktop\C#\Practica_3\bin\Debug\netcoreapp3.1\Practica_3.deps.json
+C:\Users\sonin\Desktop\C#\Practica_3\bin\Debug\netcoreapp3.1\Practica_3.runtimeconfig.json
+C:\Users\sonin\Desktop\C#\Practica_3\bin\Debug\netcoreapp3.1\Practica_3.runtimeconfig.dev.json
+C:\Users\sonin\Desktop\C#\Practica_3\bin\Debug\netcoreapp3.1\Practica_3.dll
+C:\Users\sonin\Desktop\C#\Practica_3\bin\Debug\netcoreapp3.1\Practica_3.pdb
+C:\Users\sonin\Desktop\C#\Practica_3\obj\Debug\netcoreapp3.1\Practica_3.dll
+C:\Users\sonin\Desktop\C#\Practica_3\obj\Debug\netcoreapp3.1\Practica_3.pdb
+C:\Users\sonin\Desktop\C#\Practica_3\obj\Debug\netcoreapp3.1\Practica_3.genruntimeconfig.cache
